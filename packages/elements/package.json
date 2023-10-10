@@ -34,6 +34,7 @@
     "node": ">=14.13"
   },
   "scripts": {
+    "prepare": "yarn build"
     "build": "concurrently \"yarn:build.react\" \"yarn:build.webcomponents\"",
     "postbuild": "yarn build.styles",
     "build.react": "sl-scripts bundle",
