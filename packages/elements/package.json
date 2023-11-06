@@ -13,7 +13,7 @@
   "author": "Stoplight <support@stoplight.io>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stoplightio/elements"
+    "url": "https://github.com/AKiefnerMWKS/stateless-elements"
   },
   "license": "Apache-2.0",
   "type": "commonjs",
@@ -109,5 +109,5 @@
   "release": {
     "extends": "@stoplight/scripts/release"
   },
-  "gitHead": "37343ea0203096f2ab0a78667bdf80677cd38d40"
+  "gitHead": "68df0b8b7c8b2f954c99af7ff0363d13bd146197"
 }
