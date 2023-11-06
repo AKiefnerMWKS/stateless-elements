@@ -109,5 +109,5 @@
   "release": {
     "extends": "@stoplight/scripts/release"
   },
-  "gitHead": "68df0b8b7c8b2f954c99af7ff0363d13bd146197"
+  "gitHead": "d2c4090879e70b03690ac424bd55b28ff139da17"
 }
