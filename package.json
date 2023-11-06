@@ -1,15 +1,15 @@
 {
-  "name": "root",
-  "private": true,
-  "homepage": "https://github.com/stoplightio/elements",
-  "bugs": "https://github.com/stoplightio/elements/issues",
-  "author": "Stoplight <support@stoplight.io>",
+  "name": "stateless-elements-full",
+  "homepage": "https://github.com/AKiefnerMWKS/stateless-elements",
+  "bugs": "https://github.com/AKiefnerMWKS/stateless-elements/pulls",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stoplightio/elements"
+    "url": "https://github.com/AKiefnerMWKS/stateless-elements"
   },
+  "author": "Mercuryworks",
   "version": "0.0.1",
   "license": "Apache-2.0",
+  "private": true,
   "workspaces": [
     "demo",
     "packages/*"
